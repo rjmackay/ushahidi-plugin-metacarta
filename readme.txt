@@ -12,7 +12,7 @@ An example plugin for adding WMS layers.
 Based off the WMS layer used in this tutorial http://spatialhorizons.com/2011/03/16/openlayers-basic-map-setup/
 
 == Installation ==
-1. Copy the entire /metacarta-wms/ directory into your /plugins/ directory.
+1. Copy the entire /metacarta/ directory into your /plugins/ directory.
 5. Activate the plugin.
 
 == Changelog ==
